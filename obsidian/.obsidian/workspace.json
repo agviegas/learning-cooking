@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/Storage.md",
+                "file": "Preservation/Dehydration.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction/Storage.md",
+                "file": "Preservation/Dehydration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction/Storage.md",
+                "file": "Preservation/Dehydration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction/Storage.md"
+                "file": "Preservation/Dehydration.md"
               }
             }
           }
@@ -156,12 +156,13 @@
   },
   "active": "adacb3919c8aff6d",
   "lastOpenFiles": [
+    "Preservation/Void.md",
+    "Preservation/Dehydration.md",
+    "Preservation/Cold preservation.md",
+    "Introduction/Storage.md",
     "Introduction/Preparation.md",
     "Introduction/Knives.md",
     "Preservation/Pasteurization.md",
-    "Preservation/Void.md",
-    "Preservation/Cold preservation.md",
-    "Introduction/Storage.md",
     "Introduction/Equipment.md",
     "Preservation",
     "Pasted image 20230503000114.png",
