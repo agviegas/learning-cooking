@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65b72d7a4a348063",
+        "id": "da01dc10f0db8bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "adacb3919c8aff6d",
+            "id": "ff56bc4a79530a09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preservation/Dehydration.md",
+                "file": "Cooking techniques/Roast (asar).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preservation/Dehydration.md",
+                "file": "Cooking techniques/Roast (asar).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preservation/Dehydration.md",
+                "file": "Cooking techniques/Roast (asar).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preservation/Dehydration.md"
+                "file": "Cooking techniques/Roast (asar).md"
               }
             }
           }
@@ -154,17 +154,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adacb3919c8aff6d",
+  "active": "ff56bc4a79530a09",
   "lastOpenFiles": [
-    "Preservation/Void.md",
-    "Preservation/Dehydration.md",
-    "Preservation/Cold preservation.md",
+    "Cooking techniques/Braise (brasear).md",
+    "Cooking techniques/Confit (confitado).md",
+    "Cooking techniques/Roast (asar).md",
+    "Introduction/Knives.md",
+    "Preservation techniques/Acidification.md",
+    "Cooking techniques",
+    "Preservation techniques/Smoking.md",
+    "Preservation techniques/Sugar.md",
+    "Preservation techniques/Salting.md",
+    "Preservation techniques/Dehydration.md",
+    "Preservation techniques/Void.md",
+    "Preservation techniques/Cold preservation.md",
     "Introduction/Storage.md",
     "Introduction/Preparation.md",
-    "Introduction/Knives.md",
-    "Preservation/Pasteurization.md",
+    "Preservation techniques/Pasteurization.md",
     "Introduction/Equipment.md",
-    "Preservation",
+    "Preservation techniques",
     "Pasted image 20230503000114.png",
     "Introduction/Hygiene.md",
     "Introduction",
